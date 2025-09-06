@@ -1,0 +1,2 @@
+# Data-Analysis-of-a-Research-Paper-on-Influencer-Marketing
+Conducted data analysis for a research paper. Survey data from 100 respondents was analyzed in IBM SPSS statistical software using descriptive statistics, reliability testing, Spearman’s correlation, Chi-square, and Kruskal-Wallis tests to examine how influencer credibility, exposure, and content format shape OTT and cinema viewing choices.
